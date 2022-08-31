@@ -4,3 +4,6 @@ El siguiente repositiprio tiene Demos de la tarjeta STM32F4 y simulink
 
 link:
 https://waijung1.aimagin.com/can_to_serial_bridge.htm
+
+video:
+https://www.youtube.com/user/RapidSTM32/videos
